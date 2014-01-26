@@ -1,6 +1,3 @@
 test1
 =====
-
- Hello Kees, how are you.
- I think thesse are numbered lists
- This should be number three
+This is just a test project for playing with aspects of GIT
