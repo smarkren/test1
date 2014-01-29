@@ -3,6 +3,6 @@ define(['jquery'], function(){
 	console.info('Hello World');
 
 
-	console.info('Just another bit of javascript');
+	console.info('Currently I\'m listening to The Beatles');
 
 });
